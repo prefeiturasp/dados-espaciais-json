@@ -1,0 +1,688 @@
+[
+    {
+        "id": 2971,
+        "nome": "Museu de Transportes Públicos Gaetano Ferolla",
+        "descricao": "Av. Cruzeiro do Sul, 780-Canindé-3315-88843ª a domingo, das 9:00 às 17:00 h",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.525028228759766,
+        "longitude": -46.62511444091797,
+        "status": "ATIVO",
+        "dataCadastro": 1386067192497,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4103,
+        "nome": "\tMuseu do Teatro Municipal\t",
+        "descricao": "\tBaixos do Viaduto do Chá  s/nº-República-3241-3815-http://portal.prefeitura.sp.gov.br/secretarias/cultura/patrimonio_historico/institucional/museus/0002-Visitas: 3ª a domingo, das 9:00 às 17:00 h. Consultas ao acervo: 2ª a  6ªfeira, das 9:00 às 16:00 h\t",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.546369552612305,
+        "longitude": -46.63814926147461,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038890,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4861,
+        "nome": "Beco do Pinto",
+        "descricao": "R. Roberto Simonsen, 136. Próximo do Pátio do Colégio, ao lado do Solar da Marquesa. Centro.-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.54949188232422,
+        "longitude": -46.63188171386719,
+        "status": "ATIVO",
+        "dataCadastro": 1386089341873,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4927,
+        "nome": "Casa do Bandeirante",
+        "descricao": "R. Alexandre Marcondes Machado, 36 - Butantã-",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.56068229675293,
+        "longitude": -46.70964431762695,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4928,
+        "nome": "Casa do Grito",
+        "descricao": "Parque Independência, s/nº, Ipiranga. Zona Sul. -2068-0032-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.581884384155273,
+        "longitude": -46.60928726196289,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342103,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4929,
+        "nome": "Casa do Sertanista (Casa do Caxingui)",
+        "descricao": "Pça Dr. Ênio Barbato, s/nº, Caxingui. Zona Oeste. | -. 3726-6348-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.583044052124023,
+        "longitude": -46.721229553222656,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342103,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4930,
+        "nome": "Casa do Tatuapé",
+        "descricao": "R. Guabiju, 49, Tatuapé. Zona Leste.- 2296-4330-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.532926559448242,
+        "longitude": -46.582313537597656,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342103,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4931,
+        "nome": "Casa da Imagem  (antiga Casa nº 1)",
+        "descricao": "R. Roberto Simonsen, 136-B. Próximo da estação Sé do metrô. Ao lado do Pátio do Colégio. Centro.- 3241-4238-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.54945182800293,
+        "longitude": -46.631988525390625,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342103,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4932,
+        "nome": "Casa Modernista",
+        "descricao": "R. Santa Cruz, 325, Vila Mariana. Zona Sul. | -tel. 5083-3232-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.59625816345215,
+        "longitude": -46.63355255126953,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342107,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4942,
+        "nome": "Gabinete do Desenho (antiga Chácara Lane)",
+        "descricao": "Rua da Consolação, 1.024. Centro.-tel. 3129-3574-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.548093795776367,
+        "longitude": -46.651214599609375,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342113,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4946,
+        "nome": "Pavilhão das Culturas Brasileiras",
+        "descricao": "R. Pedro Álvares Cabral, s/nº, Vila Mariana. Dentro do Parque Ibirapuera. Acesso pelo portão 10. Zona Sul. -tel. 5083-0199-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.58644676208496,
+        "longitude": -46.6613883972168,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342117,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4964,
+        "nome": "Sítio da Ressaca",
+        "descricao": "R. Nadra Raffoul Mokodsi, 3, Jabaquara. Próximo da estação Jabaquara do metrô. Zona Sul. -tel. 5011-7233-Atendimento: 3ª a dom, das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.650991439819336,
+        "longitude": -46.64561462402344,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342130,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4965,
+        "nome": "Sítio Morrinhos",
+        "descricao": "R. Santo Anselmo, 102, Jardim São Bento. Zona Norte. -tel. 2236-6121-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.506267547607422,
+        "longitude": -46.6479606628418,
+        "status": "ATIVO",
+        "dataCadastro": 1387227289640,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4966,
+        "nome": "Solar da Marquesa de Santos",
+        "descricao": "R. Roberto Simonsen, 136. Próximo da estação Sé do metrô. Ao lado do Pátio do Colégio. Centro -tel. 3105-6118-Atendimento: 3ª a dom., das 9h às 17h.",
+        "subCategoria": {
+            "id": 50,
+            "subCategoria": "Museus",
+            "status": "ATIVO",
+            "dataCadastro": 1384350910177,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 50,
+        "latitude": -23.54982566833496,
+        "longitude": -46.63192367553711,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342130,
+        "tipoOperacao": "EQUIPAMENTOS"
+    }
+]

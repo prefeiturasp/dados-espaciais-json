@@ -1,0 +1,1472 @@
+[
+    {
+        "id": 4913,
+        "nome": "Bosque da Leitura Parque Anhanguera",
+        "descricao": "Av. Fortunata Tadiello Natucci, 1.000, Perus. Zona Norte.-Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.422298431396484,
+        "longitude": -46.776458740234375,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342090,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4914,
+        "nome": "Bosque da Leitura Parque do Carmo",
+        "descricao": "Av. Afonso de Sampaio e Souza, 951, Itaquera. Zona Leste. -Atendimento: Sáb. e dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.565933227539062,
+        "longitude": -46.46800994873047,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342093,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4915,
+        "nome": "Bosque da Leitura Parque Cidade de Toronto",
+        "descricao": "Av. Cardeal Motta, 84, Parque São Domingos., Pirituba. Zona Norte. -Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.50490951538086,
+        "longitude": -46.7265510559082,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342093,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4916,
+        "nome": "Bosque da Leitura Parque Ibirapuera",
+        "descricao": "Av. IV Centenário, 1.268, Portão 7A, ao lado do Viveiro Manequinho Lopes, Parque Ibirapuera. Zona Sul.-Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.593093872070312,
+        "longitude": -46.66349792480469,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342093,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4917,
+        "nome": " Bosque da Leitura Parque Esportivo dos Trabalhadores ",
+        "descricao": "R. Canuto Abreu, s/nº, Tatuapé. Zona Leste. -Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.55499839782715,
+        "longitude": -46.5594596862793,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342093,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4918,
+        "nome": "Bosque da Leitura Parque Guarapiranga",
+        "descricao": "Estrada de Guarapiranga, 575, Guarapiranga-Atendimento: Dom. , das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.683319091796875,
+        "longitude": -46.73629379272461,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4919,
+        "nome": "Bosque da Leitura Parque Lions Club Tucuruvi",
+        "descricao": "R. Alcindo Bueno de Assis, 500, Tucuruvi. Zona Norte.-Atendimento: Sáb. e dom. das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.467262268066406,
+        "longitude": -46.606990814208984,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4920,
+        "nome": "Bosque da Leitura Parque Jardim da Luz",
+        "descricao": "R. Ribeiro de Lima, 99, Luz. Próximo da estação Luz do metrô. Centro.-Atendimento: Sáb. e dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.531116485595703,
+        "longitude": -46.63602066040039,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4921,
+        "nome": "Bosque da Leitura Parque Raposo Tavares",
+        "descricao": "R. Telmo Coelho Filho, 200, Vila Albano. Zona Oeste.-Atendimento: Sáb. e dom., das 10h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.58609390258789,
+        "longitude": -46.755767822265625,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4922,
+        "nome": "Bosque da Leitura Parque Rodrigo de Gásperi",
+        "descricao": "Av. Miguel de Castro, 321, Vila Zatti, Pirituba. Zona Norte.-Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.481590270996094,
+        "longitude": -46.71889114379883,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4923,
+        "nome": "Bosque da Leitura Parque Santo Dias",
+        "descricao": "R. Jasmim da Beirada, 71, Capão Redondo. Zona Sul. -Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.66461181640625,
+        "longitude": -46.77489471435547,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4924,
+        "nome": "Bosque da Leitura Parque Lajeado",
+        "descricao": "R. Antonio Thadeo, 74, Guianases. Zona Leste.-Atendimento: Dom., das 9h30 às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.54347038269043,
+        "longitude": -46.40578079223633,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4925,
+        "nome": "Bosque da Leitura Parque do Trote",
+        "descricao": "R. São Quirino, 905, Vila Guilherme. Zona Norte.-| Atendimento 3ª a dom., das 10h às 22h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.514570236206055,
+        "longitude": -46.5972900390625,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4940,
+        "nome": "Espaço de Leitura Cecília Meireles Centro de Memória e Convívio da Lapa. ",
+        "descricao": "R. Araçatuba, 522, Vila Romana Zona Oeste. -tel. 3834-0004-Atendimento: 2ª a 6ª, das 8h às 17h. Sáb., das 9h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.530132293701172,
+        "longitude": -46.710201263427734,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342110,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4941,
+        "nome": "Espaço de Leitura Zalina Rolim  Centro de Convívio e Cultura da Vila Mariana. ",
+        "descricao": "R. Corredeira, 26, Vila Mariana. Zona Sul. -tel. 5573-2606-Atendimento: 2ª a 6ª, das 8h às 17h. Sáb., das 9h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.598756790161133,
+        "longitude": -46.62602233886719,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342110,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4947,
+        "nome": "Ponto de Leitura André Vital",
+        "descricao": "Av. dos Metalúrgicos, 2.255, Cidade Tiradentes. Zona Leste. -tel. 2282-2562-Atendimento: 2ª a 6ª, das 8h às 17h. Sáb. e dom., das 11h às 17h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.599994659423828,
+        "longitude": -46.40037536621094,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342117,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4948,
+        "nome": "Ponto de Leitura Butantã",
+        "descricao": "R. Junta Mizumoto, 13 - Jd Peri Peri. Zona Oeste.- 3742-6218 e 3744-4369-Atendimento: 2ª, das 14h às 17h. 3a a 6a, das 9h às 17h; Sáb., das 9h às 13h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.587242126464844,
+        "longitude": -46.73299789428711,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342117,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4949,
+        "nome": "Ponto de Leitura Carolina Maria de Jesus",
+        "descricao": "Rua Terezinha do Prado Oliveira, 119, Parelheiros. Zona Sul.-tel. 5921-3665-Atendimento: 2ª a 6ª, das 9h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.826335906982422,
+        "longitude": -46.720951080322266,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342117,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4950,
+        "nome": "Ponto de Leitura Graciliano Ramos",
+        "descricao": "Calçadão Cultural do Grajaú. R. Prof. Oscar Barreto Filho, 252, Parque América, Grajaú. Zona Sul.-tel. 3496-9638-Atendimento: 2ª a 6ª, das 10h às 17h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.735462188720703,
+        "longitude": -46.69221878051758,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342120,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4951,
+        "nome": "Ponto de Leitura Jardim Lapenna  (Galpão de Cultura e Cidadania)",
+        "descricao": "R. Serra da Juruoca, s/nº, Jardim Lapenna. Zona Leste.-tel. 2297-3532-Atendimento: 2ª a sáb., das 9h às 18h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.48784828186035,
+        "longitude": -46.44801330566406,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342120,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4952,
+        "nome": "Ponto de Leitura Juscelino Kubitschek",
+        "descricao": "Av. Inácio Monteiro, 55, Cidade Tiradentes.  2556-3036-Atendimento: 2ª a 6ª, das 8h às 17h. Sáb. e dom., das 11h às 17h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.56424331665039,
+        "longitude": -46.40730667114258,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342120,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4953,
+        "nome": "Ponto de Leitura Olido",
+        "descricao": "Av. São João, 473. Próximo das estações República, Anhangabaú e São Bento do metrô. Centro.-tel. 3397-0176-Atendimento: 2ª, das 13h às 18h. 3ª a sáb. das 10h às 20h. Dom. e feriados, das 13h às 19h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.54329490661621,
+        "longitude": -46.63876724243164,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342120,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4954,
+        "nome": "Ponto de Leitura Parque do Piqueri",
+        "descricao": "R. Tuiuti, 515, Tatuapé. Próximo da marginal do Rio Tietê. Zona Leste.-Atendimento: 2ª a 6ª, das 8h às 17h. Sáb. e dom., das 9h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.53082275390625,
+        "longitude": -46.57568359375,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342120,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4955,
+        "nome": "Ponto de Leitura Parque do Rodeio",
+        "descricao": "R. Igarapé da Bela Aurora, s/nº, Cidade Tiradentes. Zona Leste.-tel. 2555-4276-Atendimento: 2ª a 6ª, das 8h às 17h. Sáb. e dom., das 11h às 17h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.572248458862305,
+        "longitude": -46.39951705932617,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342120,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4956,
+        "nome": "Ponto de Leitura Praça do Bambuzal ",
+        "descricao": "R. da Colônia Nova, s/nº, Praça Nativo Rosa de Oliveira (conhecida como Praça do Bambuzal), Jardim Ângela. Zona Sul. -tel. 5833-3567-Atendimento: 2ª a 6ª, das 8h às 18h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.6875057220459,
+        "longitude": -46.773136138916016,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342123,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4957,
+        "nome": "Ponto de Leitura de São Mateus",
+        "descricao": "R. Fortaleza de Itapema, 268, Jardim Vera Cruz, São Mateus. Zona Leste.-tel. 2019-1718-Atendimento: 2ª a 6ª, das 9h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.618379592895508,
+        "longitude": -46.471656799316406,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342123,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4958,
+        "nome": "Ponto de Leitura Severino do Ramo",
+        "descricao": "R. Barão de Alagoas, 340, Itaim Paulista. Zona Leste.-tel. 2936-2742-Atendimento: 2ª a sáb., das 9h às 18h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.498258590698242,
+        "longitude": -46.396148681640625,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342123,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4959,
+        "nome": "Ponto de Leitura Tide Setúbal",
+        "descricao": "R. Mário Dallari, 170, Jd. São Vicente, São Miguel Paulista. Zona Leste.-tel. 2297-5969-Atendimento: 2a a 6a, das 9h às 18h. Sáb., das 10h às 17h. ",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.498868942260742,
+        "longitude": -46.429447174072266,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342123,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4960,
+        "nome": "Ponto de Leitura da União dos Moradores do Parque Anhanguera",
+        "descricao": "R. Amadeu Caego Monteiro, 209, Parque Anhanguera. Zona Oeste.-tel. 3911-3394 e 3911-3048-Atendimento: 2ª a 6ª, das 9h às 17h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.42889404296875,
+        "longitude": -46.7967414855957,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342127,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4961,
+        "nome": "Ponto de Leitura Vila Mara",
+        "descricao": "R. Conceição de Almeida, 170, São Miguel Paulista. Zona Leste. -tel. 2586-2526 e 2585-2466-Atendimento: 2ª a 6ª, das 10h às 18h. Sáb., das 9h às 16h.",
+        "subCategoria": {
+            "id": 113,
+            "subCategoria": "Bosques e Pontos de Leitura",
+            "status": "ATIVO",
+            "dataCadastro": 1385989804050,
+            "categoria": {
+                "id": 13,
+                "categoria": "Cultura",
+                "status": "ATIVO",
+                "dataCadastro": 1386768878093,
+                "midia": {
+                    "id": 270,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Cultura branco",
+                    "textoAlternativo": "Cultura branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/hQgdpcx710DDxB9b9LPofg.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768614880,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 270
+            },
+            "idCategoria": 13
+        },
+        "idSubCategoria": 113,
+        "latitude": -23.49150848388672,
+        "longitude": -46.42123031616211,
+        "status": "ATIVO",
+        "dataCadastro": 1386089342127,
+        "tipoOperacao": "EQUIPAMENTOS"
+    }
+]

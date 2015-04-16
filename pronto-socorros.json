@@ -1,0 +1,1423 @@
+[
+    {
+        "id": 2985,
+        "nome": "PSM Balneário São José",
+        "descricao": "Rua Gaspar Leme s/n-Balneário São José-5979-7173 / 5979-6760 / 5979-6412-psbalneario@yahoo.com.br-24 horas",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.77096939086914,
+        "longitude": -46.72380828857422,
+        "status": "ATIVO",
+        "dataCadastro": 1386067192507,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 2986,
+        "nome": "PSM PERUS ",
+        "descricao": "R. JÚLIO DE OLIVEIRA, 80-V. FLAMENGO-3917-1242",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.404497146606445,
+        "longitude": -46.73830032348633,
+        "status": "ATIVO",
+        "dataCadastro": 1386067192507,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 2987,
+        "nome": "PSM SANTANA - LAURO RIBAS BRAGA ",
+        "descricao": "R. VOLUNTÁRIOS DA PATRIA, 943-SANTANA-2221-3682 / 2223-2900",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.511980056762695,
+        "longitude": -46.62632751464844,
+        "status": "ATIVO",
+        "dataCadastro": 1386067192507,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 2988,
+        "nome": "PSM VILA MARIA BAIXA ",
+        "descricao": "PÇA. ENGENHEIRO HUGO BRANDI, 15-PQ. NOVO MUNDO-2633-9530",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.5168399810791,
+        "longitude": -46.57712173461914,
+        "status": "ATIVO",
+        "dataCadastro": 1386067192507,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4146,
+        "nome": "\tPronto Socorro Augusto Gomes de Mattos\t",
+        "descricao": "\tRua Júlio Felipe Guedes , 200-Vila da Merces-2969-9950-Atendimento 24 horas\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.633609771728516,
+        "longitude": -46.607215881347656,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038920,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4147,
+        "nome": "\tPronto Socorro do Hospital Municipal José Storopolli\t",
+        "descricao": "\tR. Francisco Fanganielo, 127-Parque Novo Mundo-2967-0103-superintendencia.hvm@epm.br / ouvidoria.hvm@epm.br-atendimento 24 horas\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.519529342651367,
+        "longitude": -46.56203079223633,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038920,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4148,
+        "nome": "\tPronto Socorro Hospital Maternidade Prof. Mario Degni\t",
+        "descricao": "\tR. Lucas de Leyde, 257-Vila Antônio-3768-4900-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.578266143798828,
+        "longitude": -46.765472412109375,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038920,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4149,
+        "nome": "\tPronto Socorro Hospital Municipal Infantil Menino Jesus\t",
+        "descricao": "\tR. dos Ingleses, 258-Bela Vista-3262-2296-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.560014724731445,
+        "longitude": -46.64716720581055,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038923,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4150,
+        "nome": "\tPronto Socorro Municipal Álvaro Dino de Almeida\t",
+        "descricao": "\tR. Vitorino Carmilo, 717-Campos Elíseos-3826-5666 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.53126335144043,
+        "longitude": -46.652774810791016,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038923,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4151,
+        "nome": "\tPronto Socorro Municipal de Perus\t",
+        "descricao": "\tR. Julio de Oliveira, 80-Perus-3917-1242 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.404497146606445,
+        "longitude": -46.73830032348633,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038923,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4152,
+        "nome": "\tPronto Socorro Municipal Prof. João Catarin Mezomo\t",
+        "descricao": "\tAv. Queirós Filho, 313-Vila Leopoldina-3022-4278 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.53911590576172,
+        "longitude": -46.633056640625,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038923,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4153,
+        "nome": "\tPronto-Atendimento Atualpa Girão Rabelo\t",
+        "descricao": "\tR. Ilha do Arvoredo, 10 - Itaim Paulista-Vila Morgadouro-2963-2635 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.50847053527832,
+        "longitude": -46.396209716796875,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038927,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4154,
+        "nome": "\tPronto-Atendimento São Mateus  \t",
+        "descricao": "\tR. Maestro João Balan, 88-Cidade Mateus-2919-6018 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.60948944091797,
+        "longitude": -46.479896545410156,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038927,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4155,
+        "nome": "\tPronto-Socorro do Hospital do Servidor Público Municipal\t",
+        "descricao": "\tR. Castro Alves, 60-Aclimação-3208-2211-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.566829681396484,
+        "longitude": -46.63911437988281,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038927,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4156,
+        "nome": "\tPronto-Socorro do Hospital Municipal de Campo LImpo Dr. Fernando Mauro Pires Rocha\t",
+        "descricao": "\tEstrada de Itapecerica, 1661-Vila Maracanã-5512-7650 e 5011-7220-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.648550033569336,
+        "longitude": -46.749046325683594,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038927,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4157,
+        "nome": "\tPronto-Socorro do Hospital Municipal de Ermelino Matarazzo Prof. Dr. Alipio C. Netto\t",
+        "descricao": "\tAl. Rodrigo de Brum, 1989-Ermelino Matarazzo-3394-8030 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.500560760498047,
+        "longitude": -46.472450256347656,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038930,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4158,
+        "nome": "\tPronto-Socorro do Hospital Municipal do Tatuapé Dr. Carmino Caricchio\t",
+        "descricao": "\tAv. Celso Garcia, 4815-Tatuapé-6191-7000-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.533666610717773,
+        "longitude": -46.566165924072266,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038930,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4159,
+        "nome": "\tPronto-Socorro do Hospital Municipal Dr. Ignácio Proença de Gouvea\t",
+        "descricao": "\tR. Juventus, 562-Moóca-3394-7810 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.571548461914062,
+        "longitude": -46.59020233154297,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038930,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4160,
+        "nome": "\tPronto-Socorro do Hospital Municipal Jardim Iva Dr. Benedito Montenegro\t",
+        "descricao": "\tR. Antônio Lazaro, 226-Jardim Iva-2723-9999-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.58742904663086,
+        "longitude": -46.514339447021484,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038930,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4161,
+        "nome": "\tPronto-Socorro do Hospital Municipal Prof. Dr. Waldomiro de Paula\t",
+        "descricao": "\tR. Augusto Carlos Baumann, 1074-Itaquera-2944-6355-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.530868530273438,
+        "longitude": -46.44495391845703,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038930,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4162,
+        "nome": "\tPronto-Socorro do Hospital Municipal Tide Setubal\t",
+        "descricao": "\tR. Dr. José Guilherme Eiras, 123-São Miguel Paulista-3394-8770-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.497146606445312,
+        "longitude": -46.43989181518555,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038933,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4163,
+        "nome": "\tPronto-Socorro do Hospital Municipal Vila Nhocuné Dr. Alexandre Zaio\t",
+        "descricao": "\tR. Alves Maldonado, 128-Vila Nhocuné-3394-9210-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.542659759521484,
+        "longitude": -46.50130844116211,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038933,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4164,
+        "nome": "\tPronto-Socorro Municipal Balneário São José\t",
+        "descricao": "\tR. Gaspar Leme, s/nº - Balneário São José-Parelheiros-5979-7073 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.77096939086914,
+        "longitude": -46.72380828857422,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038933,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4165,
+        "nome": "\tPronto-Socorro Municipal Bandeirantes Dr. Caetano Virgílio Netto\t",
+        "descricao": "\tR. Augusto Farina, 1.125-Jd. Pinheiros -  Butantã-3735-1190 e 3735-9940-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.58062744140625,
+        "longitude": -46.74121856689453,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038933,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4166,
+        "nome": "\tPronto-Socorro Municipal de Santo Amaro Dr. José Sylvio de Camargo\t",
+        "descricao": "\tAv. Adolfo Pinheiro, 805-Santo Amaro-5523-1777 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.64592170715332,
+        "longitude": -46.701385498046875,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038937,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4167,
+        "nome": "\tPronto-Socorro Municipal Dona Maria Antonieta F. de Barros\t",
+        "descricao": "\tR. Antonio Felipe Filho, 180-Grajaú-5972-4881 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.75006866455078,
+        "longitude": -46.68955612182617,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038937,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4168,
+        "nome": "\tPronto-Socorro Municipal Dr. Lauro Ribas Braga Santana\t",
+        "descricao": "\tR. Voluntários da Pátria, 943-Santana-2223-2919 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.511980056762695,
+        "longitude": -46.62632751464844,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038937,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4169,
+        "nome": "\tPronto-Socorro Municipal Julio Tupy\t",
+        "descricao": "\tR. Serra da Queimada, 800-Parque Guaianases-2035-9475 (PABX)-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.52882957458496,
+        "longitude": -46.41168975830078,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038937,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4170,
+        "nome": "\tPronto-Socorro Municipal Vila Maria Baixa\t",
+        "descricao": "\tPça. Engº Hugo Brandi, 15-Parque Novo Mundo-6954-4536-\t",
+        "subCategoria": {
+            "id": 54,
+            "subCategoria": "Pronto-Socorros e Pronto-Atendimentos",
+            "status": "ATIVO",
+            "dataCadastro": 1384357528730,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 54,
+        "latitude": -23.5168399810791,
+        "longitude": -46.57712173461914,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038937,
+        "tipoOperacao": "EQUIPAMENTOS"
+    }
+]

@@ -1,0 +1,1031 @@
+[
+    {
+        "id": 2934,
+        "nome": "HM DR. CARMINO CARICCHIO - TATUAPÉ",
+        "descricao": "Av Celso Garcia , 4815-Tatuape-2191-7000 / 2191-5320/  2191-7499",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.533666610717773,
+        "longitude": -46.566165924072266,
+        "status": "ATIVO",
+        "dataCadastro": 1386067189377,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 2935,
+        "nome": "HM DR. IGNÁCIO PROENÇA DE GOUVEA",
+        "descricao": "rua Juventos , 562-Mooca-2169-9923",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.571548461914062,
+        "longitude": -46.59020233154297,
+        "status": "ATIVO",
+        "dataCadastro": 1386067189377,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 2937,
+        "nome": "Hospital do Servidor Público Municipal/HSPM",
+        "descricao": "R. Castro Alves, 60 (Metrô Vergueiro)-Aclimação-3208-2211-http://portal.prefeitura.sp.gov.br/secretarias/empresas_autarquias/hspm-",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.566829681396484,
+        "longitude": -46.63911437988281,
+        "status": "ATIVO",
+        "dataCadastro": 1386067189377,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 2938,
+        "nome": "Hospital Municipal Infantil Menino Jesus",
+        "descricao": "R. dos Ingleses, 258-Bela Vista-3016-0500 (Tel./Fax)-http://www.prefeitura.sp.gov.br/cidade/secretarias/saude/hospital_municipal_infa-",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.560014724731445,
+        "longitude": -46.64716720581055,
+        "status": "ATIVO",
+        "dataCadastro": 1386067189380,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4065,
+        "nome": "\tHM DR.BENEDITO MOTENEGRO - JARDIM IVA\t",
+        "descricao": "\tR. Antõnio Lázaro, 226-Jd. Iva-2721-8684/ 2721-3807-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.58742904663086,
+        "longitude": -46.514339447021484,
+        "status": "ATIVO",
+        "dataCadastro": 1386089026093,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4066,
+        "nome": "\tHospital Cidade Tiradentes - OSS Santa Marcelina\t",
+        "descricao": "\tAv. dos Metalúrgicos, 1797-Cidade Tiradentes-2259-6200-sau@oss.santamarcelina.org-Atendimento 24 horas\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.596309661865234,
+        "longitude": -46.404720306396484,
+        "status": "ATIVO",
+        "dataCadastro": 1386089026097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4067,
+        "nome": "\tHospital do Servidor Público Municipal/HSPM\t",
+        "descricao": "\tR. Castro Alves, 60 (Metrô Vergueiro)-Aclimação-3208-2211-http://www2.prefeitura.sp.gov.br/secretarias/empresas_autarquias/hspm-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.566829681396484,
+        "longitude": -46.63911437988281,
+        "status": "ATIVO",
+        "dataCadastro": 1386089026097,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4068,
+        "nome": "\tHospital do Servidor Público Municipal/HSPM - Ouvidoria\t",
+        "descricao": "\tR. Castro Alves, 60 ? 3º andar-Aclimação-3397-7777 e 3397-7778-2ª a 6ª feira, das 8:30 às 16:30 h\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.566829681396484,
+        "longitude": -46.63911437988281,
+        "status": "ATIVO",
+        "dataCadastro": 1386089026100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4069,
+        "nome": "\tHospital do Servidor Público Municipal/HSPM - Pronto-Socorro/Serviço Médico Cirúrgico de Urgência/SMCU\t",
+        "descricao": "\tR. Castro Alves, 60 - térreo-Aclimação-3208-2211-Funciona 24 horas todos os dias.\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.566829681396484,
+        "longitude": -46.63911437988281,
+        "status": "ATIVO",
+        "dataCadastro": 1386089026100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4070,
+        "nome": "\tHospital do Servidor Público Municipal/HSPM - Serviço de Atendimento ao Cidadão/SAC\t",
+        "descricao": "\tR. Castro Alves, 60 - 3º andar-Aclimação-3208-0096 e 3208-2211 ramal 498-2ª a 6ª feira, das 7:00 às 18:00 h\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.566829681396484,
+        "longitude": -46.63911437988281,
+        "status": "ATIVO",
+        "dataCadastro": 1386089026100,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4071,
+        "nome": "\tHOSPITAL ESTADUAL SAPOPEMBA\t",
+        "descricao": "\tRua Manoel  França dos Santos, 174-Jd. Sapopemba-2111-8669/ 2962-6283/ 2114-6000-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.610740661621094,
+        "longitude": -46.49327087402344,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038863,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4072,
+        "nome": "\tHospital Municipal Benedito Montenegro\t",
+        "descricao": "\tRua Antonio Lázaro, 226-Jardim Iva-2723-9999-Atendimento 24 horas\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.58742904663086,
+        "longitude": -46.514339447021484,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038863,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4073,
+        "nome": "\tHospital Municipal Dr. Alexandre Zaio Vila Nhocuné\t",
+        "descricao": "\tR. Alves Maldonado, 128-Vila Nhocuné-2217-4163/ 4110-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.542659759521484,
+        "longitude": -46.50130844116211,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038867,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4074,
+        "nome": "\tHospital Municipal Dr. Arthur Ribeiro de Saboya\t",
+        "descricao": "\tAv. Francisco de Paula Quintanilha Ribeiro, 860-Jabaquara-3394-8380-Atendimento 24 horas\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.559755325317383,
+        "longitude": -46.53150939941406,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038867,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4075,
+        "nome": "\tHospital Municipal Dr. Carmino Caricchio Tatuapé\t",
+        "descricao": "\tAv. Celso Garcia, 4815-Tatuapé-3394-6980-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.533666610717773,
+        "longitude": -46.566165924072266,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038867,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4076,
+        "nome": "\tHospital Municipal Dr. Fernando Mauro Pires da Rocha Campo Limpo\t",
+        "descricao": "\tEstrada de Itapecerica, 1661-Vila Maracanã-3394-7460 (PABX)-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.648550033569336,
+        "longitude": -46.749046325683594,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038870,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4077,
+        "nome": "\tHospital Municipal Dr. Ignácio Proença de Gouveia Mooca\t",
+        "descricao": "\tR. Juventus, 562-Mooca-3394-7810 (PABX)-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.571548461914062,
+        "longitude": -46.59020233154297,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038870,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4078,
+        "nome": "\tHospital Municipal Maternidade Prof. Mario Degni\t",
+        "descricao": "\tR. Lucas de Leyde, 257-Rio Pequeno - Butantã-3394-9330 (PABX)-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.578266143798828,
+        "longitude": -46.765472412109375,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038870,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4079,
+        "nome": "\tHospital Municipal Prof. Dr. Alípio Correa Neto\t",
+        "descricao": "\tAl. Rodrigo de Brum, 1989-Ermelino Matarazzo-3394-8030-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.500560760498047,
+        "longitude": -46.472450256347656,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038870,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4080,
+        "nome": "\tHospital Municipal Tide Setúbal São Miguel\t",
+        "descricao": "\tR. Dr. José Guilherme Eiras, 123-São Miguel Paulista-3394-8770-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.497146606445312,
+        "longitude": -46.43989181518555,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038870,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 4081,
+        "nome": "\tHOSPITAL TATUAPÉ   - (TRIAGEM)\t",
+        "descricao": "\tRua Síria,  s/n-2191-3328-\t",
+        "subCategoria": {
+            "id": 53,
+            "subCategoria": "Hospitais",
+            "status": "ATIVO",
+            "dataCadastro": 1384357468873,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 53,
+        "latitude": -23.530229568481445,
+        "longitude": -46.56666946411133,
+        "status": "ATIVO",
+        "dataCadastro": 1386089038870,
+        "tipoOperacao": "EQUIPAMENTOS"
+    }
+]

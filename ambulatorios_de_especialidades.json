@@ -1,0 +1,933 @@
+[
+    {
+        "id": 3024,
+        "nome": "A.E. Ibirapuera",
+        "descricao": "Rua Phillipe de Vitry, 49-Jd. Santa Lucia-5891-3236-aejibirapuera@prefeitura.sp.gov.br-de segunda a sexta-feira das 07:00 as 18:00",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.6660099029541,
+        "longitude": -46.73638153076172,
+        "status": "ATIVO",
+        "dataCadastro": 1386067569237,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3025,
+        "nome": "AE BONI IV",
+        "descricao": "R. Andreas Amon, 150-José Bonifácio-2524-4455-aeboni4@ig.com.br-de 2ª a 6ª feira – 07h às 19h",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.553646087646484,
+        "longitude": -46.43465042114258,
+        "status": "ATIVO",
+        "dataCadastro": 1386067569237,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3026,
+        "nome": "AE Doutor Milton Aldred",
+        "descricao": "Rua São Caetano do Sul, 381-Grajaú-5932-2015 / 5528-1475-ae.miltonaldred@gmail.com-segunda à sexta das 07h às 19h",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.75543212890625,
+        "longitude": -46.686214447021484,
+        "status": "ATIVO",
+        "dataCadastro": 1386067569237,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3027,
+        "nome": "AE Jardim Cliper",
+        "descricao": "Rua Dr Carlos Pezzolo, s/nr-Parque Esmaralda-5971-2532-clippersaude@ig.com.br-segunda à sexta das 07h00 as 19h00",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.72300910949707,
+        "longitude": -46.70534896850586,
+        "status": "ATIVO",
+        "dataCadastro": 1386067569237,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3028,
+        "nome": "AE PERUS ",
+        "descricao": "R. JÚLIO DE OLIVEIRA, 80-V. FLAMENGO-3917-1263 / 3915-4745-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.404497146606445,
+        "longitude": -46.73830032348633,
+        "status": "ATIVO",
+        "dataCadastro": 1386067569240,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3029,
+        "nome": "AE SAPOPEMBA",
+        "descricao": "R. João Lopes de Lima, 1151-Jd. Sapobemba-2962-3481/ 2962-3480/ 2119-8908-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.61167335510254,
+        "longitude": -46.493534088134766,
+        "status": "ATIVO",
+        "dataCadastro": 1386067574343,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3030,
+        "nome": "AE Tucuruvi - Prof. Armando de Aguiar Pupo ",
+        "descricao": "Av. Nova Cantareira, 1467-Tucuruvi-2952-1555 / 2204-5311  2204-5311 / 2996-7679-aetucuruvi@saude.prefeitura.sp.gov.br-2ª a 6ª feira Das 7:00 – 19:00h",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.482179641723633,
+        "longitude": -46.61316680908203,
+        "status": "ATIVO",
+        "dataCadastro": 1386067574343,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3031,
+        "nome": "AE VILA JOANIZA",
+        "descricao": "Rua Luis Vives, 85-Vila Joaniza-5621-7859 / 5621-4929 / 5622-0844 / 5621-4796 / 5626-2574-aevjoaniza@saude.prefeitura.sp.gov.br-segunda a sexta das 7:00 ás 19:00 Horas",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.673925399780273,
+        "longitude": -46.65964126586914,
+        "status": "ATIVO",
+        "dataCadastro": 1386067574347,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3032,
+        "nome": "AE VILA PRUDENTE",
+        "descricao": "Pça do Centenário de Vl Prudnte, 108-6163-4228-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.582080841064453,
+        "longitude": -46.582828521728516,
+        "status": "ATIVO",
+        "dataCadastro": 1386067574347,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3174,
+        "nome": "Ambulatório de Especialidades César Antunes Rocha",
+        "descricao": "R. Córrego Azul, 433-Pedreira-5612-7601-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.696500778198242,
+        "longitude": -46.66028594970703,
+        "status": "ATIVO",
+        "dataCadastro": 1386067578350,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3196,
+        "nome": "Ambulatório de Especialidades Vila Prudente",
+        "descricao": "Praça Centenário de Vila Prudente, 108-Vila Prudente-2273-1665/ 2274-2523/ 2063-4228-2ª a 6ª feira, das 7:00 às 19:00 h",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.582080841064453,
+        "longitude": -46.582828521728516,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582577,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3198,
+        "nome": "Ambulatório de Saúde Mental Casa Viva",
+        "descricao": "Rua Antonio Maia, 827-Perus-3917-4503 / 3917-1031-aeperuscviva@saude.prefeitura.sp.gov.br-de segunda a sexta - das 07 às 17 horas",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.4063720703125,
+        "longitude": -46.75585174560547,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582580,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3199,
+        "nome": "Ambulatório de Saúde Mental da Lapa",
+        "descricao": "R. Roma, 446-Lapa-3879-1095 e 3675-5648-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.522600173950195,
+        "longitude": -46.70112991333008,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582580,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3200,
+        "nome": "Ambulatório de Saúde Mental de Pirituba",
+        "descricao": "R. Raimundo Pereira Magalhães, 5214-Pirituba-3974-9122-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.48604393005371,
+        "longitude": -46.724952697753906,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582580,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3201,
+        "nome": "Ambulatório de Saúde Mental de São Miguel Paulista",
+        "descricao": "Av. Ten. Laudelino Ferreira do Amaral, 513-Vila Jacuí-6297-8422-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.502206802368164,
+        "longitude": -46.45325469970703,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582580,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3202,
+        "nome": "Ambulatório de Saúde Mental Vila Guarani",
+        "descricao": "Av. Eng. Armando Arruda Pereira, 331-Vila Guarani-275-4076-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.632293701171875,
+        "longitude": -46.64569091796875,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582583,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3203,
+        "nome": "Ambulatório de Saúde Mental Vila Matilde",
+        "descricao": "R. José Manoel da Fonseca Junior, 406-Vila Matilde-6781-2059-",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.535093307495117,
+        "longitude": -46.525386810302734,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582583,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3204,
+        "nome": "Ambulatório Descentralizado da Região Oeste/Lapa",
+        "descricao": "R. Fáustolo, 1720-Vila Romana-3864-4671 e 3875-3313-2ª a 6ª feira, das 8:00 às 18:00 h",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.523605346679688,
+        "longitude": -46.702030181884766,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582583,
+        "tipoOperacao": "EQUIPAMENTOS"
+    },
+    {
+        "id": 3205,
+        "nome": "Ambulatório Descentralizado Otacílio Gualberto de Oliveira (do Carrão)",
+        "descricao": "Pça. Heitor Levi, nº 700-Carrão-293-4462 e 293-5244-2ª a 6ª feira, das 8:00 às 18:00 h",
+        "subCategoria": {
+            "id": 55,
+            "subCategoria": "Ambulatórios de especialidades",
+            "status": "ATIVO",
+            "dataCadastro": 1384357698227,
+            "categoria": {
+                "id": 5,
+                "categoria": "Saúde e Bem - Estar",
+                "status": "ATIVO",
+                "dataCadastro": 1386768889627,
+                "midia": {
+                    "id": 276,
+                    "idAutorMidia": 3,
+                    "autorMidia": {
+                        "id": 3,
+                        "nome": "Secom",
+                        "urlFoto": "http://www.capital.sp.gov.br/static/2013/11/bIvb10-Z_ws-k1yHPb7Olg.bin",
+                        "status": "INATIVO",
+                        "dataCadastro": 1384373548987,
+                        "dataAlteracao": null,
+                        "idUsuarioCadastro": 4,
+                        "idUsuarioAlteracao": null
+                    },
+                    "idTipoMidia": 9,
+                    "titulo": "Saúde branco",
+                    "textoAlternativo": "Saúde branco",
+                    "urlMidia": "http://www.capital.sp.gov.br/static/2013/12/rSmvL3z1jM9AAFBNkDytGA.png",
+                    "idUsuarioCadastro": 1,
+                    "idUsuarioAlteracao": null,
+                    "status": "ATIVO",
+                    "dataCadastro": 1386768786907,
+                    "dataAlteracao": null,
+                    "descricaoTipoMidia": null
+                },
+                "idMidia": 276
+            },
+            "idCategoria": 5
+        },
+        "idSubCategoria": 55,
+        "latitude": -23.541580200195312,
+        "longitude": -46.45454025268555,
+        "status": "ATIVO",
+        "dataCadastro": 1386067582583,
+        "tipoOperacao": "EQUIPAMENTOS"
+    }
+]
