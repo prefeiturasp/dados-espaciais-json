@@ -4,6 +4,4 @@ Este dataset traz vários equipamentos públicos da cidade de São Paulo em form
 
 Os dados são de domínio público e podem ser utilizados por quem quiser.
 
-Os dados foram tirados do site de mapas da Prefeitura de São Paulo em http://http://capital.sp.gov.br/portal/mapa
-
-
+Os dados foram tirados do site de mapas da Prefeitura de São Paulo em http://capital.sp.gov.br/portal/mapa
